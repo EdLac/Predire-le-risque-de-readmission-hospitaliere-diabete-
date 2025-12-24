@@ -1,4 +1,4 @@
-`# Prédiction du risque de réadmission hospitalière (Diabète)
+# Prédiction du risque de réadmission hospitalière (Diabète)
 
 ## 📌 Contexte
 Les réadmissions hospitalières précoces représentent un enjeu majeur de santé publique. Elles sont associées à une augmentation des coûts, à une surcharge des établissements de soins et à des risques accrus pour les patients sortis trop tôt.
